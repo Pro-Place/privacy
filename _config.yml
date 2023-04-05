@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: Privacy Policy
+description: Privacy Policy / プライバシーポリシー
+
+github:
+  is_project_page: false
+
+include:
+  - _pages
+  
